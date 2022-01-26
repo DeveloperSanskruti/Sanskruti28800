@@ -6,8 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/Quora-Sanskruti-red)](https://www.quora.com/profile/Sanskruti-Nerlekar)
 
 
-I'm
-Full Stack Solution Architect.
+I'm an aspiring full stack web developer.
 The crossover between design and programming has always been of interest to me. I am currently pursuing BBA in Computer Application. I am doing a MERN stack web development internship at Edureka. I have got an amazing team to work with me. Every single day, I am learning new things. I have also done a project using PHP-MySQL. I have used XAMPP Server for that project.
 
 Languages and Tools: 
