@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskruti-nerlekar-9582401ba/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskruti-nerlekar-9582401ba/)]https://www.linkedin.com/in/sanskruti-nerlekar-9582401ba/
 [![Website Badge](https://img.shields.io/badge/WebSite-Sanskruti-green)]
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sanskruti-yellow)](https://stackoverflow.com/users/17893302/sanskruti-nerlekar)
 [![Website Badge](https://img.shields.io/badge/Quora-Sanskruti-red)](https://www.quora.com/profile/Sanskruti-Nerlekar)
